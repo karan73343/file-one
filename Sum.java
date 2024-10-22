@@ -4,5 +4,6 @@ public class Sum {
         int b=3;
         int sum =a+b;
         System.out.println(sum);
+        System.out.println("Good morning chai pee lo");
     }
 }
