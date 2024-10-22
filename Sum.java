@@ -5,5 +5,6 @@ public class Sum {
         int sum =a+b;
         System.out.println(sum);
         System.out.println("Good morning chai pee lo");
+        System.out.println("Good after noo ");
     }
 }
